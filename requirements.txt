@@ -3,4 +3,4 @@ Flask-Session
 werkzeug
 gunicorn
 psutil
-protobuf>=5.28.3
+protobuf==6.30.0
